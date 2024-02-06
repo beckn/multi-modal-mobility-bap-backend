@@ -1,0 +1,8 @@
+module.exports.authService = require('./auth.service')
+module.exports.tokenService = require('./token.service')
+module.exports.userService = require('./user.service')
+module.exports.bppService = require('./bpp.service')
+module.exports.jobService = require('./job.service')
+module.exports.historyService = require('./history.service')
+module.exports.nammaYatriService = require('./nammayatri_bpp.service')
+module.exports.amnexService = require('./amnex_bpp.service')
